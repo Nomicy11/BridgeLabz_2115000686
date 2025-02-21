@@ -1,0 +1,3 @@
+1,Alice,HR,50000.0
+2,Bob,IT,60000.0
+3,Charlie,Finance,70000.0

@@ -1,0 +1,3 @@
+Name: Nomicy
+Age: 22
+Favorite Language: Java
